@@ -48,7 +48,7 @@ Instead, CS is the theoretical study of computing systems and information. It de
         [[params.services.list]]
             icon = ""
             title = "The Basics"
-            description = """ "Be A Computer Scientist for a Week" is a free but intensive day camp on the McGill University campus, in the heart of downtown. 
+            description = """ "Be A Computer Scientist for a Week" is a free but intensive day camp on the McGill University campus, in the heart of downtown.
             This year we offer four themes: Games Programming, Robotics, Medical Computing, Climate Modelling.
             Students will first be given simple programming assignments, which will progressively become complex. By the end of the camp, students will have completed a project in their field. """
 
