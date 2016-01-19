@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://summercamp.cs.mcgill.ca/"
 languageCode = "en-us"
 title = "Be a Computer Scientist for a Week"
 
@@ -17,44 +17,45 @@ title = "Be a Computer Scientist for a Week"
 
 		[params.navigation.links]
 			about     = "About the Camp"
-			services  = "Days at Camp"
+			services  = "Important Information"
 			portfolio = "Camp Streams"
-			contact   = "Registration and Contact"
+			contact   = "Registration"
+      sponsors  = "Sponsors"
 
 
 	# Hero section
 	[params.hero]
 		slogan     = "Learn Programming and Problem Solving Skills Early"
-		subtitle   = "Basic coding and problem solving skills in a week through either electronic arts, medical imaging, weather modelling, or robotics."
+		subtitle   = "Learn basic coding and problem solving skills in a week through either games programming, medical computing, weather modelling, or robotics.  It's our pleasure to bring you the 11th year of the *Be a Computer Scientist* camp from June 27 to June 30 during the day."
 		buttonText = "Explore the Camp"
 
 
 	# About section
 	[params.about]
-		headline    = "We've got what you need!"
+		headline    = "Join us for a great learning experience!"
 		description = """
 Have you ever been puzzled by science? Have you tried to analyze exactly how a computer works? Are you good at problem solving, trouble-shooting, and coming up with original solutions? When people ask you about how many languages you are familiar with, do you answer: "Three. English, French and Java? Then the place you want to be, from July 4th to July 8th 2011, is at McGill University's "Be A Computer Scientist for a Week"!
 
-Sixty students from high schools across the Montreal area will be given the opportunity to live out their passion, and learn more about the intricate sides of Computer Science! The name "computer science", or CS for short, might give the impression that we are trying to study computers, the every day machines we use for e-mail, chatting and watching movies. But CS is not about surfing the net, making charts with Excel and writing programs. Dijkstra, a famous computer scientist, once said: "Computer science is no more about computers than astronomy is about telescopes."
+Sixty students from high schools will be given the opportunity to live out their passion, and learn more about the intricate sides of Computer Science! The name "computer science", or CS for short, might give the impression that we are trying to study computers, the every day machines we use for e-mail, chatting and watching movies. But CS is not about surfing the net, making charts with Excel and writing programs. Dijkstra, a famous computer scientist, once said: "Computer science is no more about computers than astronomy is about telescopes."
 
 Instead, CS is the theoretical study of computing systems and information. It deals with design principles, requirements analysis, and implementation of hardware or software to solve problems in biology, physics, pharmacy or economy. It is the study of algorithms and of methods for analyzing, testing and verifying concepts. To sum it all up, Computer Science offers you skills that can be applied to any discipline and help you solve the "problems of the future"!
 """
 
 	# Service section
 	[params.services]
-		headline = "Days At Camp"
+		headline = "Important Information"
 
         [[params.services.list]]
             icon = ""
             title = "The Basics"
-            description = """ "Be A Computer Scientist for a Week" is a free but intensive camp on the McGill University campus, in the heart of downtown. 
-            This year we offer four themes: Electronic Arts, Robotics, Medical Imaging, Climate Modelling.
+            description = """ "Be A Computer Scientist for a Week" is a free but intensive day camp on the McGill University campus, in the heart of downtown. 
+            This year we offer four themes: Games Programming, Robotics, Medical Computing, Climate Modelling.
             Students will first be given simple programming assignments, which will progressively become complex. By the end of the camp, students will have completed a project in their field. """
 
         [[params.services.list]]
 			icon = ""
 			title = "Applicants"
-			description = "Applicants should have strong math, science and other computer related skills, the ability to work well with others, and a serious interest in participation"
+			description = "Applicants should have strong math, science and other computer related skills, the ability to work well with others, and a serious interest in participation.  Applicants should further have sponsorship from a teacher that should send a short sponsorship note to the conact email below."
 
 		[[params.services.list]]
             icon = ""
@@ -65,6 +66,11 @@ Instead, CS is the theoretical study of computing systems and information. It de
             icon = ""
             title = "In the Afternoons"
             description = "The afternoon units will be organized around the student team. Each group will have 2 to 3 students. The selection of groups will be changed daily to maximize the interaction between students. The groups will be selected randomly. The afternoon will focus on team problem solving. The research group will, as a unit, solve a series of progressively more difficult computer problems within their selected real life domain."
+
+    [[params.services.list]]
+      icon = ""
+      title = "Downloadable Material"
+      description = """NEED TO ADD LINKS TO POSTER AND LETTER HERE"""
 
   [params.portfolio]
     headline = "Our Camp Streams"
@@ -90,3 +96,6 @@ Instead, CS is the theoretical study of computing systems and information. It de
 		description = "Send us an email and we will get back to you as soon as possible!"
 		phone = ""
 		email = "joseph.vybihal at mail dot mcgill dot ca"
+
+  [params.sponsors]
+    headline = "Our Sponsors"
