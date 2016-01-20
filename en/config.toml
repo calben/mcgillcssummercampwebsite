@@ -1,6 +1,8 @@
-baseurl = "http://summercamp.cs.mcgill.ca/"
+baseurl = "http://107.170.11.185/en"
 languageCode = "en-us"
 title = "Be a Computer Scientist for a Week"
+englishurl = "http://107.170.11.185/en"
+frenchurl = "http://107.170.11.185/fr"
 
 [params]
 
@@ -34,9 +36,9 @@ title = "Be a Computer Scientist for a Week"
 	[params.about]
 		headline    = "Join us for a great learning experience!"
 		description = """
-Have you ever been puzzled by science? Have you tried to analyze exactly how a computer works? Are you good at problem solving, trouble-shooting, and coming up with original solutions? When people ask you about how many languages you are familiar with, do you answer: "Three. English, French and Java? Then the place you want to be, from July 4th to July 8th 2011, is at McGill University's "Be A Computer Scientist for a Week"!
+Have you ever been puzzled by science? Have you tried to analyze exactly how a computer works? Are you good at problem solving, trouble-shooting, and coming up with original solutions? When people ask you about how many languages you are familiar with, do you answer: "Three. English, French and Java? Then the place you want to be, from June 27 to June 30 2016, is at McGill University's "Be A Computer Scientist for a Week"!
 
-Sixty students from high schools will be given the opportunity to live out their passion, and learn more about the intricate sides of Computer Science! The name "computer science", or CS for short, might give the impression that we are trying to study computers, the every day machines we use for e-mail, chatting and watching movies. But CS is not about surfing the net, making charts with Excel and writing programs. Dijkstra, a famous computer scientist, once said: "Computer science is no more about computers than astronomy is about telescopes."
+Students from high schools will be given the opportunity to live out their passion, and learn more about the intricate sides of Computer Science! The name "computer science", or CS for short, might give the impression that we are trying to study computers, the every day machines we use for e-mail, chatting and watching movies. But CS is not about surfing the net, making charts with Excel and writing programs. Dijkstra, a famous computer scientist, once said: "Computer science is no more about computers than astronomy is about telescopes."
 
 Instead, CS is the theoretical study of computing systems and information. It deals with design principles, requirements analysis, and implementation of hardware or software to solve problems in biology, physics, pharmacy or economy. It is the study of algorithms and of methods for analyzing, testing and verifying concepts. To sum it all up, Computer Science offers you skills that can be applied to any discipline and help you solve the "problems of the future"!
 """

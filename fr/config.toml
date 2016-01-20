@@ -1,0 +1,101 @@
+baseurl = "http://107.170.11.185/fr"
+languageCode = "fr"
+title = "Une semaine de découverte dans les sciences informatiques"
+englishurl = "http://107.170.11.185/en"
+frenchurl = "http://107.170.11.185/fr"
+
+[params]
+
+	name = "Calem Bendell"
+	description = "Une semaine de découverte dans les sciences informatiques"
+
+	# The path must be relative to the static folder
+	favicon = "favicon.ico"
+
+
+	# Navigation
+	[params.navigation]
+		brand = "Une semaine de découverte dans les sciences informatiques"
+
+		[params.navigation.links]
+			about     = "Informations Camp"
+			services  = "Informations Importantes"
+			portfolio = "Les Streams Camp"
+			contact   = "Enregistrement"
+      sponsors  = "Sponsors"
+
+
+	# Hero section
+	[params.hero]
+		slogan     = "Apprenez les techniques de programmation et de résolution de problèmes au début"
+		subtitle   = "Apprendre le codage et la résolution de problèmes compétences de base en une semaine , soit par la programmation de jeux, informatique médicale , la modélisation de la météo , ou la robotique. Il est notre plaisir de vous présenter la 11e année de l' * Une semaine de découverte dans les sciences informatiques * camp du 27 Juin au 30 Juin au cours de la journée."
+		buttonText = "Explorez le Camp"
+
+
+	# About section
+	[params.about]
+		headline    = "Rejoignez-nous pour une grande expérience d'apprentissage!"
+		description = """Avez vous été perplexe par la science? Avez vous essayé d’analyser comment un ordinateur fonctionne? Êtes vous habile pour résoudre des problièmes, de dépanner et de trouver des solutions originales? Quand on te demande combien de langages tu parle, est-ce que tu réponds: “Trois. Anglais, Français et Java”? Alors la place que tu veux aller, du 27 au 30 juin 2016, est au “Une semaine de découverte dans les sciences informatiques” par Université de McGill!
+Student Welcome
+
+Élèves des écoles secondaires à travers Montréal auront la chance de vivre leur passion et d’apprendre plus sur les côtés compliquées de l’informatique! Le nom "informatique" donne l’impression qu’on étudie les ordinateurs, les machines qu’on utilise tous les jours pour envoyer des courriersélectroniques, clavarder ou écouter des films. Mais l’informatique n’est pas naviguer sur l’internet, faire des histogrammes avec Excel et faire des programmes. Dijkstra, un scientifique en informatique, a dit: "L’informatique n’est pas plus à propos des ordinateurs que l’astronomie est à propos des téléscopes."
+Au lieu, l’informatique est une étude théorique sur les système d’ordinateur et l’information. Il traite des principes de design, l’analyse des conditions et l’application des matériels ou des logiciels informatique pour résoudre des problèmes en biologie, physique, officine ou économie. C’est une étude d’algorithmes, des méthodes d’analyse et des concepts pour tester et vérifier. Pour résumer, l’informatique t’offre des habiletés qui pourront êtres utilisées dans n’importe quelle discipline et qui t’aide à résoudre les "problèmes de la future"!
+"""
+
+	# Service section
+	[params.services]
+		headline = "Informations Importantes"
+
+        [[params.services.list]]
+            icon = ""
+            title = "The Basics"
+            description = """ "Be A Computer Scientist for a Week" is a free but intensive day camp on the McGill University campus, in the heart of downtown.
+            This year we offer four themes: Games Programming, Robotics, Medical Computing, Climate Modelling.
+            Students will first be given simple programming assignments, which will progressively become complex. By the end of the camp, students will have completed a project in their field. """
+
+        [[params.services.list]]
+			icon = ""
+			title = "Applicants"
+			description = "Applicants should have strong math, science and other computer related skills, the ability to work well with others, and a serious interest in participation.  Applicants should further have sponsorship from a teacher that should send a short sponsorship note to the conact email below."
+
+		[[params.services.list]]
+            icon = ""
+            title = "Les matins"
+            description = "Un orateur spécial: un professeur de McGill ou un invité, commencera la journée en présentant le thème avec l’aide des présentations audiovisuelles. Le but du discours est d’informer et de provoquer l’excitation. Par après, les élèves vont suivre un cours en classe sur les matières qu’ils auront besoin d’acquérir pour la journée."
+
+        [[params.services.list]]
+            icon = ""
+            title = "L'après-midi"
+            description = "Les parties d’après-midi vont être organisées en “Groupe de Recherche”. Chaque groupe va avoir 2 à 3 étudiants. La sélection des groupes va être changée chaque jour pour maximiser l’interaction entre les étudiants. Les groupes seront choisis au hasard. L’après-midi va concentrer sur la résolution des problèmes en équipe. Le groupe de recherche va résoudre, en équipe, une série de problèmes d’informatique qui augmentera de difficulté jour après jour sur leur domaine."
+
+    [[params.services.list]]
+      icon = ""
+      title = "Documents à Télécharger"
+      description = """NEED TO ADD LINKS TO POSTER AND LETTER HERE"""
+
+  [params.portfolio]
+    headline = "Les Streams Camp"
+
+	[params.portfolio.modal]
+        client = ""
+        date = ""
+        category = ""
+        buttonText = "Close"
+
+    # Aside section
+	[params.aside]
+		headline = "Get the Creative Theme for Hugo"
+
+		[params.aside.button]
+			text = "Download now"
+			link = "//github.com/digitalcraftsman/hugo-creative-theme"
+
+	# Contact section
+	[params.contact]
+		headline = "Enregistrement"
+		description = "Envoyer un e-mail et nous vous répondrons le plus rapidement possible!"
+		phone = ""
+		email = "joseph.vybihal at mail dot mcgill dot ca"
+
+  [params.sponsors]
+    headline = "Sponsors"

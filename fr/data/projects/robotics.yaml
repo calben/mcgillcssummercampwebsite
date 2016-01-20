@@ -1,0 +1,17 @@
+modalID: 6
+title: Robotics
+date:
+img: 6.jpg
+client: 
+clientLink: "#"
+category: 
+description: "
+The Mission to Mars camp explores the computer science that goes into a mission to another planet. 
+We will explore elements of Robotics including
+<ul>
+  <li>Programming Languages</li>
+  <li>Image Manipulation</li>
+  <li>Artificial Intelligence</li>
+  <li>Robotics</li>
+</ul>
+"

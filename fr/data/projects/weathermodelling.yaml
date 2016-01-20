@@ -1,0 +1,20 @@
+modalID: 5
+title: Climate Modelling
+date:
+img: 5.jpg
+client:
+clientLink: "#"
+category: 
+description: "
+The Climate Modeler Camp presents compelling visual evidence that the planet's climate has already begun to change.
+Students will also get hands-on experience learning to predict changes in the global climate just as climate scientists do.
+In particular, students will design scientific questions, examine global data and evaluate hypotheses while using a research-grade U.S. National Aeronautics and Space Administration (NASA) global climate model as they learn about the greenhouse effect, natural factors shaping global climate, and human-caused global climate change.
+
+By undertaking the work of climate scientists, students will learn about scientific methods common to Earth scientists, gain process skills in creating their own experiments, and learn to program in JavaScript to colorfully and visually display how the planet may look in 100 years. Students will learn the following things:
+<ul>
+  <li>How to use a research grade NASA global climate model</ul>
+  <li>How to use Javascript and mapping software to display changes to the planet's climate</ul>
+  <li>Basic Earth science concepts which impact global climate</ul>
+  <li>Criteria for examining the strength of anthropogenic climate change science</ul>
+</ul>
+"
