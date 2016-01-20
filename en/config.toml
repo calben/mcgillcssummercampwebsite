@@ -1,8 +1,6 @@
 baseurl = "http://107.170.11.185/en"
 languageCode = "en-us"
 title = "Be a Computer Scientist for a Week"
-englishurl = "http://107.170.11.185/en"
-frenchurl = "http://107.170.11.185/fr"
 
 [params]
 
