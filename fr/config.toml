@@ -28,7 +28,7 @@ frenchurl = "http://107.170.11.185/fr"
 	# Hero section
 	[params.hero]
 		slogan     = "Apprenez les techniques de programmation et de résolution de problèmes au début"
-		subtitle   = "Apprendre le codage et la résolution de problèmes compétences de base en une semaine , soit par la programmation de jeux, informatique médicale , la modélisation de la météo , ou la robotique. Il est notre plaisir de vous présenter la 11e année de l' * Une semaine de découverte dans les sciences informatiques * camp du 27 Juin au 30 Juin au cours de la journée."
+		subtitle   = "Apprenez les fondements du code informatique et de la résolution de problèmes en une semaine grâce à la programmation de jeux, l'informatique médicale, la modélisation de la météo ou la robotique. C'est notre grand plaisir de vous présenter la 11e édition de la Semaine de découverte des sciences informatiques, un camp de jour qui se tient du 27 au 30 juin."
 		buttonText = "Explorez le Camp"
 
 
