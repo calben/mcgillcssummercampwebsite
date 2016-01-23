@@ -82,8 +82,7 @@ Des élèves d'écoles secondaires de partout à Montréal auront la chance de v
 	# Contact section
 	[params.contact]
 		headline = "Enregistrement"
-		description = "Inscrivez-vous! Ou posez-nous vos questions.
-Envoyez-nous un courriel et nous vous répondrons dès que possible!"
+		description = "Inscrivez-vous! Ou posez-nous vos questions. Envoyez-nous un courriel et nous vous répondrons dès que possible!"
 		phone = ""
 		email = "joseph.vybihal at mail dot mcgill dot ca"
 
