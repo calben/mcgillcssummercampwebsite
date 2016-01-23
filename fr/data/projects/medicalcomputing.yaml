@@ -2,11 +2,9 @@ modalID: 4
 title: Medical Computing
 date:
 img: 4.jpg
-client: 
+client:
 clientLink: "#"
 category:
 description: "
-The Medical Computing camp exposes students to the influences that computers have played in the medical community.
-Specifically this camp will explore viruses and the methods by which computers can help in identifying and destroying them.
-In addition to learning about viruses, the camp will introduce the students to medical robotics and genetics.
+Le camp de Médecine Informatique expose les étudiants aux influences qu'ont eu les ordinateurs dans la communauté médicale. Plus spécifiquement, ce camp permettra aux élèves d'explorer les virus et les méthodes par lesquelles les ordinateurs peuvent aider à les identifier et les anéantir. En plus d'apprendre sur les virus, les élèves auront également droit à une introduction sur la robotique médicale et la génétique. Une tournée des laboratoires de robotique et de génétique informatique de McGill aura également lieu.
 "

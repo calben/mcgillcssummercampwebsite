@@ -2,16 +2,15 @@ modalID: 6
 title: Robotics
 date:
 img: 6.jpg
-client: 
+client:
 clientLink: "#"
-category: 
+category:
 description: "
-The Mission to Mars camp explores the computer science that goes into a mission to another planet. 
-We will explore elements of Robotics including
+Le camps de jour Mission sur Mars explore la science informatique employée dans la mission sur Mars. Nous explorons des différents éléments en informatique chaque année. Les éléments qu’on va explorer cette année sont:
 <ul>
-  <li>Programming Languages</li>
-  <li>Image Manipulation</li>
-  <li>Artificial Intelligence</li>
-  <li>Robotics</li>
+  <li>Langages de programmation</li>
+  <li>Manipulation des images</li>
+  <li>Intelligence artificielle</li>
+  <li>Robotique</li>
 </ul>
 "

@@ -5,15 +5,12 @@ img: 1.jpg
 client:
 clientLink: "#"
 category: ""
-description: "  
-The Games Programming camp exposes students to the world of computer graphics as it relates to the media industry.
-The stream's focus this year is on video games. 
-Students will progress through all the stages a real games designer advances through when developing their own computer game to learn the following things:
-
+description: "
+Le camp de jour Expert en Programmation du Jeux expose les élèves au monde du graphisme informatique et comment il est relié aux industries du média qui comprend les domaines suivants: films, animation et jeux vidéo. Le camp concentre sur les jeux vidéo et le modélisme 3D. Les élèves vont progresser à travers de toute les étapes qu’un vrai ingénieur pratique pour créer son propre jeu d’ordinateur. Les étudiants vont apprendre les choses suivantes:
 <ul>
- <li>A programming language</li>
- <li>An introduction to 3D Modeling</li>
- <li>Adding intelligence to games</li>
- <li>Simulating physics in games</li>
+ <li>Un langage de programmation</li>
+ <li>Comment faire du modélisme 3D</li>
+ <li>Ajouter de l’intelligence aux jeux</li>
+ <li>Simuler la physique dans les jeux</li>
 </ul>
 "

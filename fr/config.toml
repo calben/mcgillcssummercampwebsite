@@ -34,12 +34,10 @@ frenchurl = "http://107.170.11.185/fr"
 
 	# About section
 	[params.about]
-		headline    = "Rejoignez-nous pour une grande expérience d'apprentissage!"
-		description = """Avez vous été perplexe par la science? Avez vous essayé d’analyser comment un ordinateur fonctionne? Êtes vous habile pour résoudre des problièmes, de dépanner et de trouver des solutions originales? Quand on te demande combien de langages tu parle, est-ce que tu réponds: “Trois. Anglais, Français et Java”? Alors la place que tu veux aller, du 27 au 30 juin 2016, est au “Une semaine de découverte dans les sciences informatiques” par Université de McGill!
-Student Welcome
+		headline    = "Joignez-vous à nous pour une grande expérience d'apprentissage!"
+		description = """Ëtes-vous intrigué-e- par la science? Avez-vous essayé d’analyser comment un ordinateur fonctionne? Êtes vous habile à résoudre des problèmes, à vous dépanner et à trouver des solutions originales? Quand on vous demande combien de langues vous parlez, répondez-vous: “Trois. Anglais, Français et Java”? Si oui, rendez-vous du 27 au 30 juin 2016 à la “Semaine de découverte des sciences informatiques”, organisée par l'Université McGill!
 
-Élèves des écoles secondaires à travers Montréal auront la chance de vivre leur passion et d’apprendre plus sur les côtés compliquées de l’informatique! Le nom "informatique" donne l’impression qu’on étudie les ordinateurs, les machines qu’on utilise tous les jours pour envoyer des courriersélectroniques, clavarder ou écouter des films. Mais l’informatique n’est pas naviguer sur l’internet, faire des histogrammes avec Excel et faire des programmes. Dijkstra, un scientifique en informatique, a dit: "L’informatique n’est pas plus à propos des ordinateurs que l’astronomie est à propos des téléscopes."
-Au lieu, l’informatique est une étude théorique sur les système d’ordinateur et l’information. Il traite des principes de design, l’analyse des conditions et l’application des matériels ou des logiciels informatique pour résoudre des problèmes en biologie, physique, officine ou économie. C’est une étude d’algorithmes, des méthodes d’analyse et des concepts pour tester et vérifier. Pour résumer, l’informatique t’offre des habiletés qui pourront êtres utilisées dans n’importe quelle discipline et qui t’aide à résoudre les "problèmes de la future"!
+Des élèves d'écoles secondaires de partout à Montréal auront la chance de vivre leur passion et d’en apprendre plus sur les aspects pointilleux de l’informatique! Le nom “informatique” peut donner l’impression qu’on étudie les ordinateurs, les machines qui font partie de notre quotidien pour envoyer des courriels, clavarder ou écouter des films. Mais l’informatique ne se penche pas sur la navigation internet, la création d'histogrammes sur Excel, ou la programmation. Dijkstra, un scientifique et informaticien, a dit: “L’informatique n'a pas plus à voir avec les ordinateurs que l’astronomie avec les téléscopes.” Plutôt, l’informatique est l'étude théorique des systèmes informatiques et de l’information. Elle traite des principes de design, de l’analyse des conditions et de l’application des matériels ou des logiciels informatiques pour résoudre les problèmes posés par la biologie, la physique, la pharmacologie ou l'économie. C’est l'étude d’algorithmes et de méthodes d’analyse, d'examen et de vérification de concepts. En résumé, l'étude de l’informatique vous offrira des habiletés qui pourront vous être utiles dans n’importe quelle discipline et qui vous aideront à résoudre les “problèmes du futur”!
 """
 
 	# Service section
@@ -48,33 +46,31 @@ Au lieu, l’informatique est une étude théorique sur les système d’ordinat
 
         [[params.services.list]]
             icon = ""
-            title = "The Basics"
-            description = """ "Be A Computer Scientist for a Week" is a free but intensive day camp on the McGill University campus, in the heart of downtown.
-            This year we offer four themes: Games Programming, Robotics, Medical Computing, Climate Modelling.
-            Students will first be given simple programming assignments, which will progressively become complex. By the end of the camp, students will have completed a project in their field. """
+            title = "Les Bases"
+            description = """ “La Semaine de découverte des sciences informatiques” est un camp de jour gratuit mais intensif situé sur le campus de l'Université McGill, au cœur du centre-ville. Cette année, nous avons quatre thèmes: la programmation de jeux, la robotique, l'informatique médicale et la modélisation climatique. Les étudiant-e-s se verront assigner de simples exercices de programmation qui deviendront progressivement complexes. À la fin du camp, les étudiant-e-s auront complété un projet dans leur domaine. """
 
         [[params.services.list]]
 			icon = ""
-			title = "Applicants"
-			description = "Applicants should have strong math, science and other computer related skills, the ability to work well with others, and a serious interest in participation.  Applicants should further have sponsorship from a teacher that should send a short sponsorship note to the conact email below."
+			title = "Applicant-e-s"
+			description = "Les applicant-e-s devraient avoir des connaissances solides en mathématiques, en sciences, et dans des domaines reliés aux ordinateurs, la capacité de bien travailler avec les autres, et un intérêt sérieux envers leur participation. Les applicant-e-s devraient également obtenir le parrainage d'un-e professeur-e, qui devrait envoyer un court message de parrainage à l'adresse courriel ci-bas."
 
 		[[params.services.list]]
             icon = ""
             title = "Les matins"
-            description = "Un orateur spécial: un professeur de McGill ou un invité, commencera la journée en présentant le thème avec l’aide des présentations audiovisuelles. Le but du discours est d’informer et de provoquer l’excitation. Par après, les élèves vont suivre un cours en classe sur les matières qu’ils auront besoin d’acquérir pour la journée."
+            description = "Un orateur spécial: un professeur de McGill ou un invité spécial de l'extérieur commencera la journée en présentant le thème du jour à l’aide d'une présentation audiovisuelle. Le but du discours est d’informer et de provoquer l’excitation générale. Par la suite, les élèves suivront un cours en classe portant sur la matière qu’ils auront à acquérir cette journée-ci."
 
         [[params.services.list]]
             icon = ""
             title = "L'après-midi"
-            description = "Les parties d’après-midi vont être organisées en “Groupe de Recherche”. Chaque groupe va avoir 2 à 3 étudiants. La sélection des groupes va être changée chaque jour pour maximiser l’interaction entre les étudiants. Les groupes seront choisis au hasard. L’après-midi va concentrer sur la résolution des problèmes en équipe. Le groupe de recherche va résoudre, en équipe, une série de problèmes d’informatique qui augmentera de difficulté jour après jour sur leur domaine."
+            description = "Les sessions d’après-midi seront organisées autour de “Groupes de Recherche”. Chaque groupe comprendra de 2 à 3 étudiant-e-s. La composition des groupes sera changée tous les jours pour maximiser l’interaction entre les étudiant-e-s. Les groupes seront choisis au hasard. L’après-midi se concentrera sur la résolution de problèmes en équipe. Le groupe de recherche résoudra, en équipe, une série de problèmes d’informatique qui augmenteront chaque jour en difficulté."
 
     [[params.services.list]]
       icon = ""
-      title = "Documents à Télécharger"
+      title = "Matériel téléchargeable"
       description = """NEED TO ADD LINKS TO POSTER AND LETTER HERE"""
 
   [params.portfolio]
-    headline = "Les Streams Camp"
+    headline = "Nos quatre thèmes"
 
 	[params.portfolio.modal]
         client = ""
@@ -93,9 +89,10 @@ Au lieu, l’informatique est une étude théorique sur les système d’ordinat
 	# Contact section
 	[params.contact]
 		headline = "Enregistrement"
-		description = "Envoyer un e-mail et nous vous répondrons le plus rapidement possible!"
+		description = "Inscrivez-vous! Ou posez-nous vos questions.
+Envoyez-nous un courriel et nous vous répondrons dès que possible!"
 		phone = ""
 		email = "joseph.vybihal at mail dot mcgill dot ca"
 
   [params.sponsors]
-    headline = "Sponsors"
+    headline = "Nos partenaires"
