@@ -1,4 +1,4 @@
-baseurl = "http://107.170.11.185/en"
+baseurl = "http://summercamp.cs.mcgill.ca/"
 languageCode = "en-us"
 title = "Be a Computer Scientist for a Week"
 
@@ -67,10 +67,6 @@ Instead, CS is the theoretical study of computing systems and information. It de
             title = "In the Afternoons"
             description = "The afternoon units will be organized around the student team. Each group will have 2 to 3 students. The selection of groups will be changed daily to maximize the interaction between students. The groups will be selected randomly. The afternoon will focus on team problem solving. The research group will, as a unit, solve a series of progressively more difficult computer problems within their selected real life domain."
 
-    [[params.services.list]]
-      icon = ""
-      title = "Downloadable Material"
-      description = """NEED TO ADD LINKS TO POSTER AND LETTER HERE"""
 
   [params.portfolio]
     headline = "Our Camp Streams"

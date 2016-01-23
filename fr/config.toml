@@ -1,8 +1,6 @@
-baseurl = "http://107.170.11.185/fr"
+baseurl = "http://summercamp.cs.mcgill.ca/fr"
 languageCode = "fr"
 title = "Une semaine de découverte dans les sciences informatiques"
-englishurl = "http://107.170.11.185/en"
-frenchurl = "http://107.170.11.185/fr"
 
 [params]
 
@@ -63,11 +61,6 @@ Des élèves d'écoles secondaires de partout à Montréal auront la chance de v
             icon = ""
             title = "L'après-midi"
             description = "Les sessions d’après-midi seront organisées autour de “Groupes de Recherche”. Chaque groupe comprendra de 2 à 3 étudiant-e-s. La composition des groupes sera changée tous les jours pour maximiser l’interaction entre les étudiant-e-s. Les groupes seront choisis au hasard. L’après-midi se concentrera sur la résolution de problèmes en équipe. Le groupe de recherche résoudra, en équipe, une série de problèmes d’informatique qui augmenteront chaque jour en difficulté."
-
-    [[params.services.list]]
-      icon = ""
-      title = "Matériel téléchargeable"
-      description = """NEED TO ADD LINKS TO POSTER AND LETTER HERE"""
 
   [params.portfolio]
     headline = "Nos quatre thèmes"
