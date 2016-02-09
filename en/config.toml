@@ -5,7 +5,7 @@ title = "Be a Computer Scientist for a Week"
 [params]
 
 	name = "Calem Bendell"
-	description = "McGill Be a Computer Scientist for a Week Summer Camp 2016"
+	description = "McGill Be a Computer Scientist for a Week Summer Day Camp 2016"
 
 	# The path must be relative to the static folder
 	favicon = "favicon.ico"
@@ -25,14 +25,14 @@ title = "Be a Computer Scientist for a Week"
 
 	# Hero section
 	[params.hero]
-		slogan     = "Learn Programming and Problem Solving Skills Early"
+		slogan     = "Learn Programming and Problem Solving Skills Early in Our Day Camp"
 		subtitle   = "Learn basic coding and problem solving skills in a week through either games programming, medical computing, weather modelling, or robotics.  It's our pleasure to bring you the 11th year of the *Be a Computer Scientist* camp from June 27 to June 30 during the day."
 		buttonText = "Explore the Camp"
 
 
 	# About section
 	[params.about]
-		headline    = "Join us for a great learning experience!"
+		headline    = "Join us June 27 - 30 for a great learning experience!"
 		description = """
 Have you ever been puzzled by science? Have you tried to analyze exactly how a computer works? Are you good at problem solving, trouble-shooting, and coming up with original solutions? When people ask you about how many languages you are familiar with, do you answer: "Three. English, French and Java? Then the place you want to be, from June 27 to June 30 2016, is at McGill University's "Be A Computer Scientist for a Week"!
 
@@ -91,7 +91,7 @@ Instead, CS is the theoretical study of computing systems and information. It de
 		headline = "Register!  Or Ask Us Questions"
 		description = "Send us an email and we will get back to you as soon as possible!"
 		phone = ""
-		email = "joseph.vybihal at mail dot mcgill dot ca"
+		email = "info.summercamp at cs.mcgill.ca"
 
   [params.sponsors]
-    headline = "Our Sponsors"
+    headline = "Our Sponsors Last Year"

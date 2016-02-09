@@ -32,7 +32,7 @@ title = "Une semaine de découverte dans les sciences informatiques"
 
 	# About section
 	[params.about]
-		headline    = "Joignez-vous à nous pour une grande expérience d'apprentissage!"
+		headline    = "Joignez-vous à nous 27 au 30 juin pour une grande expérience d'apprentissage!"
 		description = """Ëtes-vous intrigué-e- par la science? Avez-vous essayé d’analyser comment un ordinateur fonctionne? Êtes vous habile à résoudre des problèmes, à vous dépanner et à trouver des solutions originales? Quand on vous demande combien de langues vous parlez, répondez-vous: “Trois. Anglais, Français et Java”? Si oui, rendez-vous du 27 au 30 juin 2016 à la “Semaine de découverte des sciences informatiques”, organisée par l'Université McGill!
 
 Des élèves d'écoles secondaires de partout à Montréal auront la chance de vivre leur passion et d’en apprendre plus sur les aspects pointilleux de l’informatique! Le nom “informatique” peut donner l’impression qu’on étudie les ordinateurs, les machines qui font partie de notre quotidien pour envoyer des courriels, clavarder ou écouter des films. Mais l’informatique ne se penche pas sur la navigation internet, la création d'histogrammes sur Excel, ou la programmation. Dijkstra, un scientifique et informaticien, a dit: “L’informatique n'a pas plus à voir avec les ordinateurs que l’astronomie avec les téléscopes.” Plutôt, l’informatique est l'étude théorique des systèmes informatiques et de l’information. Elle traite des principes de design, de l’analyse des conditions et de l’application des matériels ou des logiciels informatiques pour résoudre les problèmes posés par la biologie, la physique, la pharmacologie ou l'économie. C’est l'étude d’algorithmes et de méthodes d’analyse, d'examen et de vérification de concepts. En résumé, l'étude de l’informatique vous offrira des habiletés qui pourront vous être utiles dans n’importe quelle discipline et qui vous aideront à résoudre les “problèmes du futur”!
@@ -84,7 +84,7 @@ Des élèves d'écoles secondaires de partout à Montréal auront la chance de v
 		headline = "Enregistrement"
 		description = "Inscrivez-vous! Ou posez-nous vos questions. Envoyez-nous un courriel et nous vous répondrons dès que possible!"
 		phone = ""
-		email = "joseph.vybihal at mail dot mcgill dot ca"
+		email = "info.summercamp at cs.mcgill.ca"
 
   [params.sponsors]
-    headline = "Nos partenaires"
+    headline = "Nos partenaires l'année dernière"
