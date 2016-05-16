@@ -45,6 +45,11 @@ Instead, CS is the theoretical study of computing systems and information. It de
 	[params.services]
 		headline = "Important Information"
 
+		[[params.services.list]]
+			icon = ""
+			title = ""
+			description = ""
+
         [[params.services.list]]
             icon = ""
             title = "The Basics"
@@ -56,17 +61,6 @@ Instead, CS is the theoretical study of computing systems and information. It de
 			icon = ""
 			title = "Applicants"
 			description = "Applicants should have strong math, science and other computer related skills, the ability to work well with others, and a serious interest in participation.  Applicants should further have sponsorship from a teacher that should send a short sponsorship note to the contact email below."
-
-		[[params.services.list]]
-            icon = ""
-            title = "In the Mornings"
-            description = "The morning units will begin with a special keynote speaker. This will either be a professor from McGill or some external visiting speaker. The keynote speaker will present the theme for the day using an audiovisual presentation and talk. The purpose of the talk will be to inform and cause excitement. After this the students will continue with a classroom lesson focused on the material they will need to acquire for the day."
-
-        [[params.services.list]]
-            icon = ""
-            title = "In the Afternoons"
-            description = "The afternoon units will be organized around the student team. Each group will have 2 to 3 students. The selection of groups will be changed daily to maximize the interaction between students. The groups will be selected randomly. The afternoon will focus on team problem solving. The research group will, as a unit, solve a series of progressively more difficult computer problems within their selected real life domain."
-
 
   [params.portfolio]
     headline = "Our Camp Streams"
